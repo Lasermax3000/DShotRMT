@@ -1,5 +1,9 @@
  [![Arduino CI](https://github.com/derdoktor667/DShotRMT/actions/workflows/esp32.yml/badge.svg?event=push)](https://github.com/derdoktor667/DShotRMT/actions/workflows/esp32.yml)
 
+## Plans:
+-  Add Telemetry Support over extra GPIO
+-  Add LED and beeper support
+
 ## DShot ESP32 Library utilizing RMT
 
 ### The DShot Protocol
